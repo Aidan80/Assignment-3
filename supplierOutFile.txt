@@ -1,0 +1,8 @@
+================== SUPPLIERS ==========================
+ID          Name        Prod Type   Description 
+=======================================================
+S270        Grand Theft AutoToyota      Mid-size sedan
+S290        MotorMania  Hyundai     compact budget
+S300        We got Cars Toyota      10-seater minibus
+S350        Auto DelightBMW         Luxury SUV  
+S400        Prime MotorsLexus       Luxury sedan
